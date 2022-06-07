@@ -1,0 +1,36 @@
+{
+  "rich-text-editor.cjs.development.js": {
+    "bundled": 469,
+    "minified": 333,
+    "gzipped": 222
+  },
+  "rich-text-editor.cjs.production.js": {
+    "bundled": 469,
+    "minified": 333,
+    "gzipped": 222
+  },
+  "rich-text-editor.esm.js": {
+    "bundled": 248,
+    "minified": 165,
+    "gzipped": 144,
+    "treeshaked": {
+      "rollup": {
+        "code": 14,
+        "import_statements": 14
+      },
+      "webpack": {
+        "code": 998
+      }
+    }
+  },
+  "rich-text-editor.umd.development.js": {
+    "bundled": 846,
+    "minified": 461,
+    "gzipped": 279
+  },
+  "rich-text-editor.umd.production.js": {
+    "bundled": 846,
+    "minified": 461,
+    "gzipped": 279
+  }
+}

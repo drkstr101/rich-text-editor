@@ -1,5 +1,4 @@
-build/
+compiled/
+coverage/
 dist/
 node_modules/
-.snapshots/
-*.min.js
